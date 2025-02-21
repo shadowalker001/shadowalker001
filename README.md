@@ -1,7 +1,7 @@
 # 👋 Akubue Augustus  
 
 📍 Abuja, Nigeria  
-📧 [Email](#) | 🔗 [LinkedIn](#) | 💻 [GitHub](#) | 📞 (+234) 7034390152  
+📧 [Email](mailto:akubueaugustuskc@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/akubue-augustus) | 💻 [GitHub](https://github.com/shadowalker001) | 📞 (+234) 7034390152  
 
 ---
 
@@ -72,15 +72,15 @@ Proven ability to deliver high-quality, maintainable code while improving develo
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowalker001&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowalker001&layout=compact&theme=dark)  
 
 ---
 
 ## 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akubue-augustus/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shadowalker001)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/augustus_akubue)  
 
 ---
 
